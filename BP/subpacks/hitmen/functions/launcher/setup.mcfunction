@@ -44,4 +44,4 @@ tag @s remove user
 # TIMER
 scoreboard players set @s[tag=host] time_t 0
 scoreboard players set @s[tag=host] time_s 0
-scoreboard players set @s[tag=host] time_m 60
+scoreboard players set @s[tag=host] time_m 20
