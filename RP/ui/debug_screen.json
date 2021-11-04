@@ -15,16 +15,6 @@
     ]
   },
 
-  "jayly_watermark": {
-    "type": "label",
-    "text": "§bManhunt\n©JaylyMC",
-    "color": [ 1.0, 1.0, 1.0 ],
-    "shadow": true,
-    "font_type": "MinecraftSeven",
-    "font_scale_factor": 0.75,
-    "anchor_from": "bottom_right",
-    "anchor_to": "bottom_right",
-    "alpha": 10
   },
 
   "special_render": {
@@ -45,12 +35,7 @@
         "special_render@debug_screen.special_render": {
         }
       },
-      { 
-        "jayly_watermark@debug_screen.jayly_watermark": {
-        } 
-      }
-    ]
-  },
+
 
 
 
