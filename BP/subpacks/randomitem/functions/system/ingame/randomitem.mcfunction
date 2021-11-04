@@ -96,4 +96,10 @@ give @a[scores={random_item=93}] netherite_pickaxe 2304
 give @a[scores={random_item=94}] netherite_sword 2304
 give @a[scores={random_item=95}] netherrack 2304
 give @a[scores={random_item=96}] normal_stone_stairs 2304
+give @a[scores={random_item=97}] observer 2304
+give @a[scores={random_item=98}] tnt 2304
+give @a[scores={random_item=99}] sponge 2304
+give @a[scores={random_item=100}] snow 2304
+give @a[scores={random_item=101}] string 2304
+give @a[scores={random_item=102}] totem_of_undying 2304
 tellraw @a {"rawtext":[{"text": "§6§l>>RANDOM ITEM HAS ARRIVED!"}]}
