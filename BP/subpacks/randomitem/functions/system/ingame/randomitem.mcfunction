@@ -104,4 +104,5 @@ give @a[scores={random_item=101}] string 2304
 give @a[scores={random_item=102}] totem_of_undying 2304
 give @a[scores={random_item=103}] trident 2304
 give @a[scores={random_item=104}] firework_rocket 2304
+give @a[scores={random_item=105}] barrel 2304
 tellraw @a {"rawtext":[{"text": "§6§l>>RANDOM ITEM HAS ARRIVED!"}]}
