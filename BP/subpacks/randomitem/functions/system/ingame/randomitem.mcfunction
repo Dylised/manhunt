@@ -1,4 +1,4 @@
-scoreboard players random @a[tag=game_is_running] random_item 0 113
+scoreboard players random @a[tag=game_is_running] random_item 0 114
 give @a[scores={random_item=0}] acacia_boat 2304
 give @a[scores={random_item=1}] acacia_door 2304
 give @a[scores={random_item=2}] acacia_pressure_plate 2304
