@@ -112,4 +112,3 @@ give @a[scores={random_item}] end_crystal
 give @a[scores={random_item=}] obsidian
 give @a[scores={random_item=}] wood
 give @a[scores={random_item=}] black_concrete
-tellraw @a {"rawtext":[{"text": "§6§l>>RANDOM ITEM HAS ARRIVED!"}]}
