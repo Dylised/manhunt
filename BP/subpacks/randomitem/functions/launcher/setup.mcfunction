@@ -32,7 +32,6 @@ time set 0
 tellraw @s {"rawtext":[{"text":"§aSetup complete."}]}
 tellraw @s {"rawtext":[{"text":"―――――――――――――――――"}]}
 tellraw @s {"rawtext":[{"text":"§cWhoever execute command §r§l/function start §r§cbecomes a speedrunner, and the rest are hunters."}]}
-tellraw @s {"rawtext":[{"text":"Subscribe to Dylised (Fixed Addon)"}]}
 tellraw @s {"rawtext":[{"text":"―――――――――――――――――"}]}
 tellraw @s {"rawtext":[{"text":"§aMore info at: §bhttps://mcpedl.com/minecraft-manhunt"}]}
 tellraw @s {"rawtext":[{"text":"§aSupport Discord Server: §bhttps://discord.gg/Xn8TCJWA"}]}
