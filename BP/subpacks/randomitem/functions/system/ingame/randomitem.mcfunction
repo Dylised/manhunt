@@ -108,4 +108,5 @@ give @a[scores={random_item=105}] barrel 2304
 give @a[scores={random_item=106}] sand 2304
 give @a[scores={random_item=107}] water_bucket 2304
 give @a[scores={random_item=108}] bucket 2304
+give @a[scores={random_item=109}] shield 2304
 tellraw @a {"rawtext":[{"text": "§6§l>>RANDOM ITEM HAS ARRIVED!"}]}
