@@ -16,7 +16,6 @@ tellraw @a {"rawtext":[{"text":"§c§l"}, {"selector": "@a[tag=hunter,tag=game_i
 tellraw @a {"rawtext":[{"text":"§cThey only has 1 life and they do not have compass."}]}
 tellraw @a {"rawtext":[{"text":"―――――――――――――――――"}]}
 tellraw @a {"rawtext":[{"text":"§c§lRules§r: Every item dropped on the ground will disappear except the moment you get a random type of items. There is a 1000x1000 border. Every two minutes we each get a completely random item. You can pick up each others items."}]}
-tellraw @a {"rawtext":[{"text":"Subscribe to Dylised for helping fix this plugin https:/youtube.com/c/Dylised"}]
 #miscs
 execute @a[tag=host] ~~~ spreadplayers 0 0 0 10 @a
 execute @a[tag=host] ~~~ setworldspawn 0 64 0
