@@ -112,3 +112,4 @@ give @a[scores={random_item}] end_crystal
 give @a[scores={random_item=}] obsidian
 give @a[scores={random_item=}] wood
 give @a[scores={random_item=}] black_concrete
+give @a[scores={random_item=}] pufferfish_bucket
