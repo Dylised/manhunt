@@ -1,5 +1,3 @@
-
-  
 give @a[scores={random_item=}] acacia_boat
 give @a[scores={random_item=}] acacia_door
 give @a[scores={random_item=}] acacia_pressure_plate
